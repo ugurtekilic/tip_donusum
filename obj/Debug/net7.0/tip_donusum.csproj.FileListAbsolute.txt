@@ -1,0 +1,15 @@
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\bin\Debug\net7.0\tip_donusum.exe
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\bin\Debug\net7.0\tip_donusum.deps.json
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\bin\Debug\net7.0\tip_donusum.runtimeconfig.json
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\bin\Debug\net7.0\tip_donusum.dll
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\bin\Debug\net7.0\tip_donusum.pdb
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\tip_donusum.csproj.AssemblyReference.cache
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\tip_donusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\tip_donusum.AssemblyInfoInputs.cache
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\tip_donusum.AssemblyInfo.cs
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\tip_donusum.csproj.CoreCompileInputs.cache
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\tip_donusum.dll
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\refint\tip_donusum.dll
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\tip_donusum.pdb
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\tip_donusum.genruntimeconfig.cache
+C:\Users\ugurt\Desktop\dotnet\tip_donusum\obj\Debug\net7.0\ref\tip_donusum.dll
